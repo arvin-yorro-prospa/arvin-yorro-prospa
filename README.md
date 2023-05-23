@@ -1,4 +1,4 @@
-![title](https://github.com/prospa-arvinyorro/prospa-arvinyorro/blob/main/banner.png)
+![title](https://github.com/prospa-arvinyorro/prospa-arvinyorro/blob/main/header.png)
 
 <!---
 prospa-arvinyorro/prospa-arvinyorro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
